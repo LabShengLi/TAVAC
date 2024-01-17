@@ -11,4 +11,18 @@ Overfitting affects model interpretation when predictions are made out of random
 
 <img width="946" alt="image" src="https://github.com/LabShengLi/TAVAC/assets/8755378/fe2aa47a-be5b-4796-bc5c-cd12cac0a967">
 
+## Sample run
+
+While in TAVAC directory:
+
+```sh
+$ python experiments/VTransformerCrossValidationTumorPred_hugface.py --patient_id 0
+$ python experiments/VTransformerCrossValidationTumorPred_hugface.py --patient_id 1
+```
+Then we can run all cells in experiments/Vit2Stage_attention_consistency-st-net_tumor_classification.ipynb
+
+Please run all cells for tst_patient = 'Stage1' and tst_patient = 'Stage2' in cell [3] respectively
+
+Then we can run all cells in experiments/MetricsCalculation-stnet-tumorPred.ipynb
+
 
