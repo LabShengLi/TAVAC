@@ -11,7 +11,7 @@ Overfitting affects model interpretation when predictions are made out of random
 
 <img width="946" alt="image" src="https://github.com/LabShengLi/TAVAC/assets/8755378/fe2aa47a-be5b-4796-bc5c-cd12cac0a967">
 
-## Sample run
+## Test
 
 While in TAVAC directory:
 
