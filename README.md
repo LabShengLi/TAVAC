@@ -23,6 +23,6 @@ Then we can run all cells in experiments/Vit2Stage_attention_consistency-st-net_
 
 Please run all cells for tst_patient = 'Stage1' and tst_patient = 'Stage2' in cell [3] respectively
 
-Then we can run all cells in experiments/MetricsCalculation-stnet-tumorPred.ipynb
+In the end, run all cells in experiments/MetricsCalculation-stnet-tumorPred.ipynb and experiments/Scanpy-ST-Net.ipynb. 
 
 
