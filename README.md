@@ -1,6 +1,6 @@
 # **Training Attention and Validation Attention Consistency (TAVAC)**
 
-**Authors**: Yue Zhao, Dylan Agyemang, Matt Mahoney, Sheng Li
+**Authors**: Yue Zhao, Dylan Agyemang, Yang Liu, Matt Mahoney, Sheng Li
 
 
   **Contact**: sheng.li@jax.org
